@@ -4,4 +4,4 @@
 # Ajout nouvelle ligne
 #test ajout
 
-#Test conflit / Ajout d'une ligne depuis local
+Conflit résolu !
