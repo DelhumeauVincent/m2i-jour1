@@ -3,3 +3,5 @@
 # Test
 # Ajout nouvelle ligne
 #test ajout
+
+Conflit résolu !
